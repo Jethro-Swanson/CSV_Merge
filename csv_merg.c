@@ -5,7 +5,7 @@
  * DATE          Oct 24, 2021
  *
  * PURPOSE: Takes in 2 csv files and preformes a natrual, left, and full outer join on them
- *          storing the results in files named after the join that was preformed .
+ *          storing the results in files named after the join that was preformed.
  */
 
 #include <stdio.h>
